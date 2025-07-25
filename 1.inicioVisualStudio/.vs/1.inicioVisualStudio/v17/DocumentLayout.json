@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\B09S105est\\Downloads\\jeronimo cuartas calle\\1.inicioVisualStudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E33A62E7-C0FE-49B4-A4ED-23F2BEC7ECCA}|1.inicioVisualStudio\\1.inicioVisualStudio.csproj|c:\\users\\b09s105est\\downloads\\jeronimo cuartas calle\\1.iniciovisualstudio\\1.iniciovisualstudio\\1.iniciovisualstudio.vstemplate||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E33A62E7-C0FE-49B4-A4ED-23F2BEC7ECCA}|1.inicioVisualStudio\\1.inicioVisualStudio.csproj|solutionrelative:1.iniciovisualstudio\\1.iniciovisualstudio.vstemplate||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1.inicioVisualStudio.vstemplate",
+              "DocumentMoniker": "C:\\Users\\B09S105est\\Downloads\\jeronimo cuartas calle\\1.inicioVisualStudio\\1.inicioVisualStudio\\1.inicioVisualStudio.vstemplate",
+              "RelativeDocumentMoniker": "1.inicioVisualStudio\\1.inicioVisualStudio.vstemplate",
+              "ToolTip": "C:\\Users\\B09S105est\\Downloads\\jeronimo cuartas calle\\1.inicioVisualStudio\\1.inicioVisualStudio\\1.inicioVisualStudio.vstemplate",
+              "RelativeToolTip": "1.inicioVisualStudio\\1.inicioVisualStudio.vstemplate",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002301|",
+              "WhenOpened": "2025-07-25T20:03:32.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
