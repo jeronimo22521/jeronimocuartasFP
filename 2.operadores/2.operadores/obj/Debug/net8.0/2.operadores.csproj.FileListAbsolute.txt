@@ -1,0 +1,15 @@
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\2.operadores\2.operadores\bin\Debug\net8.0\2.operadores.exe
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\2.operadores\2.operadores\bin\Debug\net8.0\2.operadores.deps.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\2.operadores\2.operadores\bin\Debug\net8.0\2.operadores.runtimeconfig.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\2.operadores\2.operadores\bin\Debug\net8.0\2.operadores.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\2.operadores\2.operadores\bin\Debug\net8.0\2.operadores.pdb
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\2.operadores\2.operadores\obj\Debug\net8.0\2.operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\2.operadores\2.operadores\obj\Debug\net8.0\2.operadores.AssemblyInfoInputs.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\2.operadores\2.operadores\obj\Debug\net8.0\2.operadores.AssemblyInfo.cs
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\2.operadores\2.operadores\obj\Debug\net8.0\2.operadores.csproj.CoreCompileInputs.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\2.operadores\2.operadores\obj\Debug\net8.0\2.operadores.sourcelink.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\2.operadores\2.operadores\obj\Debug\net8.0\2.operadores.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\2.operadores\2.operadores\obj\Debug\net8.0\refint\2.operadores.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\2.operadores\2.operadores\obj\Debug\net8.0\2.operadores.pdb
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\2.operadores\2.operadores\obj\Debug\net8.0\2.operadores.genruntimeconfig.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\2.operadores\2.operadores\obj\Debug\net8.0\ref\2.operadores.dll
