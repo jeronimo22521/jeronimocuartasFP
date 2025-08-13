@@ -1,0 +1,15 @@
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\4.Condicional\4.Condicional\bin\Debug\net8.0\4.Condicional.exe
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\4.Condicional\4.Condicional\bin\Debug\net8.0\4.Condicional.deps.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\4.Condicional\4.Condicional\bin\Debug\net8.0\4.Condicional.runtimeconfig.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\4.Condicional\4.Condicional\bin\Debug\net8.0\4.Condicional.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\4.Condicional\4.Condicional\bin\Debug\net8.0\4.Condicional.pdb
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\4.Condicional\4.Condicional\obj\Debug\net8.0\4.Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\4.Condicional\4.Condicional\obj\Debug\net8.0\4.Condicional.AssemblyInfoInputs.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\4.Condicional\4.Condicional\obj\Debug\net8.0\4.Condicional.AssemblyInfo.cs
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\4.Condicional\4.Condicional\obj\Debug\net8.0\4.Condicional.csproj.CoreCompileInputs.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\4.Condicional\4.Condicional\obj\Debug\net8.0\4.Condicional.sourcelink.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\4.Condicional\4.Condicional\obj\Debug\net8.0\4.Condicional.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\4.Condicional\4.Condicional\obj\Debug\net8.0\refint\4.Condicional.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\4.Condicional\4.Condicional\obj\Debug\net8.0\4.Condicional.pdb
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\4.Condicional\4.Condicional\obj\Debug\net8.0\4.Condicional.genruntimeconfig.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\4.Condicional\4.Condicional\obj\Debug\net8.0\ref\4.Condicional.dll
