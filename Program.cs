@@ -1,62 +1,46 @@
-﻿namespace _11.ciclodewhile
+﻿namespace _17.dowhile
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            /*Realizar un algoritmo que pida números enteros positivos y los sume, hasta que se ingrese un número entero negativo. Se debe mostrar por pantalla el total de la suma de los números ingresados. */
-
-            Console.WriteLine(" SUMADORA DE NÚMEROS POSITIVOS ");
-            Console.WriteLine("Ingrese números enteros positivos para sumar.");
-            Console.WriteLine("Ingrese un número negativo para terminar y ver el resultado.");
-            Console.WriteLine(new string('-', 50));
-
-            int suma = 0;
-            int numero;
+            //algoritmo que genra y suma los primeros 5 numeors enteros 
+/*
             int contador = 0;
+            int acumulador = 0;
 
             do
             {
-                Console.Write($"Ingrese el número #{contador + 1}: ");
-                string input = Console.ReadLine();
 
-                
-                if (int.TryParse(input, out numero))
-                {
-                    if (numero >= 0)
-                    {
-                        suma += numero;
-                        contador++;
-                        Console.WriteLine($"[ Número agregado. Suma parcial: {suma}");
-                    }
-                    else
-                    {
-                        Console.WriteLine(" :D Número negativo detectado. Finalizando...");
-                    }
-                }
-                else
-                {
-                    Console.WriteLine("X Error: Debe ingresar un número entero válido.");
-                }
+                contador++;
+                acumulador = acumulador + contador;
+            } while (contador < 5);
 
-                Console.WriteLine();
+            Console.WriteLine("la suma de los cinco primeros numeros enteros es: " + acumulador);
 
-            } while (numero >= 0);
+            Algoritmo que solicita un número y genere su correspondiente tabla de multiplicar desde el 1 hasta el 10. Y así sucesivamente hasta que el usuario ya no desee continuar generando tablas de multiplicar. */
 
-            // Mostrar resultados
-            Console.WriteLine(new string('=', 50));
-            Console.WriteLine("RESULTADOS FINALES:");
-            Console.WriteLine($"Cantidad de números ingresados: {contador}");
-            Console.WriteLine($"Suma total de números positivos: {suma}");
-
-            if (contador > 0)
+            int contador = 1;
+            int numero = 0;
+            string respuesta = "";
+            do
             {
-                double promedio = (double)suma / contador;
-                Console.WriteLine($"Promedio de los números: {promedio:F2}");
-            }
+                Console.WriteLine("ingrese un numero para calcular su tabla de multiplicar:");
+                numero = int.Parse(Console.ReadLine());
 
+                do
+                {
+                    Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+                    contador++;
+                } while (contador <= 10);
+
+                contador = 1;
+                Console.WriteLine("desea generar una nueva tabla de multiplicar s:si , n=no");
+                respuesta = Console.ReadLine().ToLower();
+
+            } while (respuesta == "s");
+           
 
         }
-
     }
 }
