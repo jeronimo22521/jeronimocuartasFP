@@ -1,70 +1,62 @@
-﻿namespace _10._whilees
+﻿namespace _11.ciclodewhile
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            /*  Crear un algoritmo que permita calcular la factorial de un número dado por el usuario. (5! = 1 * 2 * 3 * 4 * 5)*/
+            /*Realizar un algoritmo que pida números enteros positivos y los sume, hasta que se ingrese un número entero negativo. Se debe mostrar por pantalla el total de la suma de los números ingresados. */
 
-            Console.WriteLine("=== CALCULADORA DE FACTORIAL ===");
+            Console.WriteLine(" SUMADORA DE NÚMEROS POSITIVOS ");
+            Console.WriteLine("Ingrese números enteros positivos para sumar.");
+            Console.WriteLine("Ingrese un número negativo para terminar y ver el resultado.");
+            Console.WriteLine(new string('-', 50));
 
+            int suma = 0;
             int numero;
-            bool entradaValida = false;
+            int contador = 0;
 
-           
             do
             {
-                Console.Write("Ingrese un número entero no negativo: ");
+                Console.Write($"Ingrese el número #{contador + 1}: ");
                 string input = Console.ReadLine();
 
-              
-                if (int.TryParse(input, out numero) && numero >= 0)
+                
+                if (int.TryParse(input, out numero))
                 {
-                    entradaValida = true;
+                    if (numero >= 0)
+                    {
+                        suma += numero;
+                        contador++;
+                        Console.WriteLine($"[ Número agregado. Suma parcial: {suma}");
+                    }
+                    else
+                    {
+                        Console.WriteLine(" :D Número negativo detectado. Finalizando...");
+                    }
                 }
                 else
                 {
-                    Console.WriteLine("Error: Debe ingresar un número entero no negativo.");
-                    Console.WriteLine();
+                    Console.WriteLine("X Error: Debe ingresar un número entero válido.");
                 }
-            } while (!entradaValida);
 
-        
-            long factorial = CalcularFactorial(numero);
+                Console.WriteLine();
 
-            
-            Console.WriteLine();
-            Console.WriteLine($"El factorial de {numero}! es: {factorial}");
+            } while (numero >= 0);
 
-            
-            if (numero <= 10)
+            // Mostrar resultados
+            Console.WriteLine(new string('=', 50));
+            Console.WriteLine("RESULTADOS FINALES:");
+            Console.WriteLine($"Cantidad de números ingresados: {contador}");
+            Console.WriteLine($"Suma total de números positivos: {suma}");
+
+            if (contador > 0)
             {
-                Console.Write("Proceso: ");
-                for (int i = 1; i <= numero; i++)
-                {
-                    Console.Write(i);
-                    if (i < numero)
-                    {
-                        Console.Write(" × ");
-                    }
-                }
-                Console.WriteLine($" = {factorial}");
+                double promedio = (double)suma / contador;
+                Console.WriteLine($"Promedio de los números: {promedio:F2}");
             }
+
+
         }
 
-        static long CalcularFactorial(int n)
-        {
-            if (n == 0 || n == 1)
-            {
-                return 1;
-            }
-
-            long resultado = 1;
-            for (int i = 2; i <= n; i++)
-            {
-                resultado *= i;
-            }
-            return resultado;
-        }
     }
 }
