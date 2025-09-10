@@ -1,61 +1,60 @@
-﻿namespace _19
+﻿namespace _20_
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            /*En un grupo de 100 alumnos, se desea saber cuántos de los estudiantes son hombres y cuántos son mujeres, además se desea saber cuántos son mayores de edad y cuántos no.*/
+            /*Un equipo de futbol jugó 30 partidos en el año, se desea crear un algoritmo que permita saber:   
+  El número de partidos perdidos  
+  El número de partidos empatados  
+  El número de partidos ganados  
+  El porcentaje de partidos perdidos  
+  El porcentaje de partidos empatados  
+  El porcentaje de partidos ganados */
 
-            int hombres = 0, mujeres = 0;
-            int mayores = 0, menores = 0;
+            int ganados = 0, perdidos = 0, empatados = 0;
             int contador = 0;
+            int totalPartidos = 30;
 
             do
             {
-                Console.WriteLine($"Ingrese los datos del alumno #{contador + 1}:");
+                Console.Write($"Resultado del partido #{contador + 1} (G = Ganado, P = Perdido, E = Empatado): ");
+                string resultado = Console.ReadLine().ToUpper();
 
-              
-                Console.Write("Digite el sexo (H para hombre, M para mujer): ");
-                string sexo = Console.ReadLine().ToUpper();
-
-                if (sexo == "H")
+                if (resultado == "G")
                 {
-                    hombres++;
+                    ganados++;
                 }
-                else if (sexo == "M")
+                else if (resultado == "P")
                 {
-                    mujeres++;
+                    perdidos++;
                 }
-                else
+                else if (resultado == "E")
                 {
-                    Console.WriteLine("Opción inválida, no se contabiliza sexo.");
-                }
-
-                
-                Console.Write("Digite la edad: ");
-                int edad = int.Parse(Console.ReadLine());
-
-                if (edad >= 18)
-                {
-                    mayores++;
+                    empatados++;
                 }
                 else
                 {
-                    menores++;
+                    Console.WriteLine("Opción inválida, no se contabiliza este partido.");
+                    continue; 
                 }
 
                 contador++;
+            } while (contador < totalPartidos);
 
-                Console.WriteLine(); 
-            } while (contador < 100);
+            double porcentajeGanados = (ganados * 100.0) / totalPartidos;
+            double porcentajePerdidos = (perdidos * 100.0) / totalPartidos;
+            double porcentajeEmpatados = (empatados * 100.0) / totalPartidos;
 
-            Console.WriteLine("----- RESULTADOS -----");
-            Console.WriteLine("Total de hombres: " + hombres);
-            Console.WriteLine("Total de mujeres: " + mujeres);
-            Console.WriteLine("Mayores de edad: " + mayores);
-            Console.WriteLine("Menores de edad: " + menores);
+          
+            Console.WriteLine(" RESULTADOS ");
+            Console.WriteLine("Partidos ganados: " + ganados);
+            Console.WriteLine("Partidos perdidos: " + perdidos);
+            Console.WriteLine("Partidos empatados: " + empatados);
 
-
+            Console.WriteLine("\nPorcentaje ganados: " + porcentajeGanados + "%");
+            Console.WriteLine("Porcentaje perdidos: " + porcentajePerdidos + "%");
+            Console.WriteLine("Porcentaje empatados: " + porcentajeEmpatados + "%");
 
         }
     }
