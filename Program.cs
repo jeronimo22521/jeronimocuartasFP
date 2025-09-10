@@ -1,45 +1,61 @@
-﻿namespace _17.dowhile
+﻿namespace _19
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            //algoritmo que genra y suma los primeros 5 numeors enteros 
-/*
+            /*En un grupo de 100 alumnos, se desea saber cuántos de los estudiantes son hombres y cuántos son mujeres, además se desea saber cuántos son mayores de edad y cuántos no.*/
+
+            int hombres = 0, mujeres = 0;
+            int mayores = 0, menores = 0;
             int contador = 0;
-            int acumulador = 0;
 
             do
             {
+                Console.WriteLine($"Ingrese los datos del alumno #{contador + 1}:");
+
+              
+                Console.Write("Digite el sexo (H para hombre, M para mujer): ");
+                string sexo = Console.ReadLine().ToUpper();
+
+                if (sexo == "H")
+                {
+                    hombres++;
+                }
+                else if (sexo == "M")
+                {
+                    mujeres++;
+                }
+                else
+                {
+                    Console.WriteLine("Opción inválida, no se contabiliza sexo.");
+                }
+
+                
+                Console.Write("Digite la edad: ");
+                int edad = int.Parse(Console.ReadLine());
+
+                if (edad >= 18)
+                {
+                    mayores++;
+                }
+                else
+                {
+                    menores++;
+                }
 
                 contador++;
-                acumulador = acumulador + contador;
-            } while (contador < 5);
 
-            Console.WriteLine("la suma de los cinco primeros numeros enteros es: " + acumulador);
+                Console.WriteLine(); 
+            } while (contador < 100);
 
-            Algoritmo que solicita un número y genere su correspondiente tabla de multiplicar desde el 1 hasta el 10. Y así sucesivamente hasta que el usuario ya no desee continuar generando tablas de multiplicar. */
+            Console.WriteLine("----- RESULTADOS -----");
+            Console.WriteLine("Total de hombres: " + hombres);
+            Console.WriteLine("Total de mujeres: " + mujeres);
+            Console.WriteLine("Mayores de edad: " + mayores);
+            Console.WriteLine("Menores de edad: " + menores);
 
-            int contador = 1;
-            int numero = 0;
-            string respuesta = "";
-            do
-            {
-                Console.WriteLine("ingrese un numero para calcular su tabla de multiplicar:");
-                numero = int.Parse(Console.ReadLine());
 
-                do
-                {
-                    Console.WriteLine($"{numero} x {contador} = {numero * contador}");
-                    contador++;
-                } while (contador <= 10);
-
-                contador = 1;
-                Console.WriteLine("desea generar una nueva tabla de multiplicar s:si , n=no");
-                respuesta = Console.ReadLine().ToLower();
-
-            } while (respuesta == "s");
-           
 
         }
     }
