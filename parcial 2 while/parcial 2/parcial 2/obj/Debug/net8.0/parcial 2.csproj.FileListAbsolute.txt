@@ -1,0 +1,14 @@
+C:\Users\tetsu\Desktop\parcial 2 while\parcial 2\parcial 2\bin\Debug\net8.0\parcial 2.exe
+C:\Users\tetsu\Desktop\parcial 2 while\parcial 2\parcial 2\bin\Debug\net8.0\parcial 2.deps.json
+C:\Users\tetsu\Desktop\parcial 2 while\parcial 2\parcial 2\bin\Debug\net8.0\parcial 2.runtimeconfig.json
+C:\Users\tetsu\Desktop\parcial 2 while\parcial 2\parcial 2\bin\Debug\net8.0\parcial 2.dll
+C:\Users\tetsu\Desktop\parcial 2 while\parcial 2\parcial 2\bin\Debug\net8.0\parcial 2.pdb
+C:\Users\tetsu\Desktop\parcial 2 while\parcial 2\parcial 2\obj\Debug\net8.0\parcial 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetsu\Desktop\parcial 2 while\parcial 2\parcial 2\obj\Debug\net8.0\parcial 2.AssemblyInfoInputs.cache
+C:\Users\tetsu\Desktop\parcial 2 while\parcial 2\parcial 2\obj\Debug\net8.0\parcial 2.AssemblyInfo.cs
+C:\Users\tetsu\Desktop\parcial 2 while\parcial 2\parcial 2\obj\Debug\net8.0\parcial 2.csproj.CoreCompileInputs.cache
+C:\Users\tetsu\Desktop\parcial 2 while\parcial 2\parcial 2\obj\Debug\net8.0\parcial 2.dll
+C:\Users\tetsu\Desktop\parcial 2 while\parcial 2\parcial 2\obj\Debug\net8.0\refint\parcial 2.dll
+C:\Users\tetsu\Desktop\parcial 2 while\parcial 2\parcial 2\obj\Debug\net8.0\parcial 2.pdb
+C:\Users\tetsu\Desktop\parcial 2 while\parcial 2\parcial 2\obj\Debug\net8.0\parcial 2.genruntimeconfig.cache
+C:\Users\tetsu\Desktop\parcial 2 while\parcial 2\parcial 2\obj\Debug\net8.0\ref\parcial 2.dll
