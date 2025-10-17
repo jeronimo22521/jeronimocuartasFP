@@ -1,0 +1,15 @@
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\17.dowhile\17.dowhile\bin\Debug\net8.0\17.dowhile.exe
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\17.dowhile\17.dowhile\bin\Debug\net8.0\17.dowhile.deps.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\17.dowhile\17.dowhile\bin\Debug\net8.0\17.dowhile.runtimeconfig.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\17.dowhile\17.dowhile\bin\Debug\net8.0\17.dowhile.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\17.dowhile\17.dowhile\bin\Debug\net8.0\17.dowhile.pdb
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\17.dowhile\17.dowhile\obj\Debug\net8.0\17.dowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\17.dowhile\17.dowhile\obj\Debug\net8.0\17.dowhile.AssemblyInfoInputs.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\17.dowhile\17.dowhile\obj\Debug\net8.0\17.dowhile.AssemblyInfo.cs
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\17.dowhile\17.dowhile\obj\Debug\net8.0\17.dowhile.csproj.CoreCompileInputs.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\17.dowhile\17.dowhile\obj\Debug\net8.0\17.dowhile.sourcelink.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\17.dowhile\17.dowhile\obj\Debug\net8.0\17.dowhile.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\17.dowhile\17.dowhile\obj\Debug\net8.0\refint\17.dowhile.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\17.dowhile\17.dowhile\obj\Debug\net8.0\17.dowhile.pdb
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\17.dowhile\17.dowhile\obj\Debug\net8.0\17.dowhile.genruntimeconfig.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\17.dowhile\17.dowhile\obj\Debug\net8.0\ref\17.dowhile.dll

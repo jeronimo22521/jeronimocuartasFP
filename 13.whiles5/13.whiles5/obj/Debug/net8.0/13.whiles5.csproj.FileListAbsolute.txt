@@ -1,0 +1,15 @@
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\13.whiles5\13.whiles5\obj\Debug\net8.0\13.whiles5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\13.whiles5\13.whiles5\obj\Debug\net8.0\13.whiles5.AssemblyInfoInputs.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\13.whiles5\13.whiles5\obj\Debug\net8.0\13.whiles5.AssemblyInfo.cs
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\13.whiles5\13.whiles5\obj\Debug\net8.0\13.whiles5.csproj.CoreCompileInputs.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\13.whiles5\13.whiles5\obj\Debug\net8.0\13.whiles5.sourcelink.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\13.whiles5\13.whiles5\bin\Debug\net8.0\13.whiles5.exe
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\13.whiles5\13.whiles5\bin\Debug\net8.0\13.whiles5.deps.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\13.whiles5\13.whiles5\bin\Debug\net8.0\13.whiles5.runtimeconfig.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\13.whiles5\13.whiles5\bin\Debug\net8.0\13.whiles5.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\13.whiles5\13.whiles5\bin\Debug\net8.0\13.whiles5.pdb
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\13.whiles5\13.whiles5\obj\Debug\net8.0\13.whiles5.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\13.whiles5\13.whiles5\obj\Debug\net8.0\refint\13.whiles5.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\13.whiles5\13.whiles5\obj\Debug\net8.0\13.whiles5.pdb
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\13.whiles5\13.whiles5\obj\Debug\net8.0\13.whiles5.genruntimeconfig.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\13.whiles5\13.whiles5\obj\Debug\net8.0\ref\13.whiles5.dll

@@ -1,0 +1,15 @@
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\Parcial 1 condicionales\Parcial 1 condicionales\bin\Debug\net8.0\Parcial 1 condicionales.exe
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\Parcial 1 condicionales\Parcial 1 condicionales\bin\Debug\net8.0\Parcial 1 condicionales.deps.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\Parcial 1 condicionales\Parcial 1 condicionales\bin\Debug\net8.0\Parcial 1 condicionales.runtimeconfig.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\Parcial 1 condicionales\Parcial 1 condicionales\bin\Debug\net8.0\Parcial 1 condicionales.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\Parcial 1 condicionales\Parcial 1 condicionales\bin\Debug\net8.0\Parcial 1 condicionales.pdb
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\Parcial 1 condicionales\Parcial 1 condicionales\obj\Debug\net8.0\Parcial 1 condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\Parcial 1 condicionales\Parcial 1 condicionales\obj\Debug\net8.0\Parcial 1 condicionales.AssemblyInfoInputs.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\Parcial 1 condicionales\Parcial 1 condicionales\obj\Debug\net8.0\Parcial 1 condicionales.AssemblyInfo.cs
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\Parcial 1 condicionales\Parcial 1 condicionales\obj\Debug\net8.0\Parcial 1 condicionales.csproj.CoreCompileInputs.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\Parcial 1 condicionales\Parcial 1 condicionales\obj\Debug\net8.0\Parcial 1 condicionales.sourcelink.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\Parcial 1 condicionales\Parcial 1 condicionales\obj\Debug\net8.0\Parcial 1 condicionales.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\Parcial 1 condicionales\Parcial 1 condicionales\obj\Debug\net8.0\refint\Parcial 1 condicionales.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\Parcial 1 condicionales\Parcial 1 condicionales\obj\Debug\net8.0\Parcial 1 condicionales.pdb
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\Parcial 1 condicionales\Parcial 1 condicionales\obj\Debug\net8.0\Parcial 1 condicionales.genruntimeconfig.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\Parcial 1 condicionales\Parcial 1 condicionales\obj\Debug\net8.0\ref\Parcial 1 condicionales.dll
