@@ -1,0 +1,15 @@
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\3.parcial matrices\3.parcial matrices\bin\Debug\net8.0\3.parcial matrices.exe
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\3.parcial matrices\3.parcial matrices\bin\Debug\net8.0\3.parcial matrices.deps.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\3.parcial matrices\3.parcial matrices\bin\Debug\net8.0\3.parcial matrices.runtimeconfig.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\3.parcial matrices\3.parcial matrices\bin\Debug\net8.0\3.parcial matrices.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\3.parcial matrices\3.parcial matrices\bin\Debug\net8.0\3.parcial matrices.pdb
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\3.parcial matrices\3.parcial matrices\obj\Debug\net8.0\3.parcial matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\3.parcial matrices\3.parcial matrices\obj\Debug\net8.0\3.parcial matrices.AssemblyInfoInputs.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\3.parcial matrices\3.parcial matrices\obj\Debug\net8.0\3.parcial matrices.AssemblyInfo.cs
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\3.parcial matrices\3.parcial matrices\obj\Debug\net8.0\3.parcial matrices.csproj.CoreCompileInputs.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\3.parcial matrices\3.parcial matrices\obj\Debug\net8.0\3.parcial matrices.sourcelink.json
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\3.parcial matrices\3.parcial matrices\obj\Debug\net8.0\3.parcial matrices.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\3.parcial matrices\3.parcial matrices\obj\Debug\net8.0\refint\3.parcial matrices.dll
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\3.parcial matrices\3.parcial matrices\obj\Debug\net8.0\3.parcial matrices.pdb
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\3.parcial matrices\3.parcial matrices\obj\Debug\net8.0\3.parcial matrices.genruntimeconfig.cache
+C:\Users\tetsu\Desktop\jeronimo cuartas\jeronimocuartasFP\3.parcial matrices\3.parcial matrices\obj\Debug\net8.0\ref\3.parcial matrices.dll
